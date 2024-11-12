@@ -1,0 +1,10 @@
+{
+  "name": "christmas-texturepack",
+  "displayName": "Christmas - TexturePack",
+  "author": "JasonP01",
+  "description": "Made to make all sprites christmas themed!",
+  "version": "0.0.1",
+  "hidden": true,
+  "minGameVersion": "138",
+  "dependencies": []
+}
