@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/JasonP01/Christmas/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/asonP01/Christmas-TexturePack/total.svg)]()
 
 # Christmas Texture Pack
 
