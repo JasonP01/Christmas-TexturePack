@@ -7,4 +7,5 @@ Wip texture pack to make all ingame sprites a christmas theme!
 Sprite Credits:
 <span style="font-size: smaller; color: grey;">sprite - discord username</span>
 
-None so far...
+white-tree - @nemdt
+conveyor - @nemdt
